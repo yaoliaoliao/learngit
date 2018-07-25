@@ -1,4 +1,5 @@
+<<<<< HEAD
 from urllib import request
 from bs4 import BeautifulSoup.
 import re
-print('Waiting for connection...')
+import socket,threading,time
